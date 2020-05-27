@@ -1,7 +1,7 @@
 def IMAGE_NAME="study-helper-bot"
 def CONTAINER_NAMES=["bot-container-1", "bot-container-2", "bot-admin-container-1"]
-def CONTAINER_ARGS_MAP=["bot-container-1":["client", "1020755763:AAFB0c6uCLDBGcmIXf0ZZeLnqecG2SIjsZY", "StudyHelperBot"],
-                        "bot-container-2":["client", "1095393713:AAFplKsXVWmtJmxQxU14lubZvjNntw4jdbg", "StudyHelperBot2"],
+def CONTAINER_ARGS_MAP=["bot-container-1":["client", "853240856:AAGIgf-6KBp6ZUEYBppNh6dgezb_bb5JPAw", "StudyHelperBot"],
+                        "bot-container-2":["client", "1000664366:AAHTp6bEAn5W7w1bUnNpNsassNX0nU0qxoA", "StudyHelperBot2"],
                         "bot-admin-container-1": ["admin", "1119539876:AAG3iEutjtEImXw9XwtnerW0oKsDqjmSk6w", "StudyHelperAdminBot"]]
 
 def IMAGE_TAG="latest"
